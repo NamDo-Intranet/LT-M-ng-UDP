@@ -1,0 +1,8 @@
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\bin\Debug\Server_PhepTinhNhan.exe.config
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\bin\Debug\Server_PhepTinhNhan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\bin\Debug\Server_PhepTinhNhan.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\obj\Debug\Server_PhepTinhNhan.csproj.AssemblyReference.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\obj\Debug\Server_PhepTinhNhan.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\obj\Debug\Server_PhepTinhNhan.csproj.CoreCompileInputs.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\obj\Debug\Server_PhepTinhNhan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Server_PhepTinhNhan\Server_PhepTinhNhan\obj\Debug\Server_PhepTinhNhan.pdb
