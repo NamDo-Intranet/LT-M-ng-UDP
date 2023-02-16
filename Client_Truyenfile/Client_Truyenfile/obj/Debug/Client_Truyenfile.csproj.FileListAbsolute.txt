@@ -1,0 +1,11 @@
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\bin\Debug\Client_Truyenfile.exe.config
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\bin\Debug\Client_Truyenfile.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\bin\Debug\Client_Truyenfile.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.csproj.AssemblyReference.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.Form1.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.Properties.Resources.resources
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.csproj.GenerateResource.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.csproj.CoreCompileInputs.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_Truyenfile\Client_Truyenfile\obj\Debug\Client_Truyenfile.pdb
