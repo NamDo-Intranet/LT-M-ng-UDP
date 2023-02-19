@@ -1,0 +1,8 @@
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\bin\Debug\Client_PhepTinhNhan.exe.config
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\bin\Debug\Client_PhepTinhNhan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\bin\Debug\Client_PhepTinhNhan.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\obj\Debug\Client_PhepTinhNhan.csproj.AssemblyReference.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\obj\Debug\Client_PhepTinhNhan.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\obj\Debug\Client_PhepTinhNhan.csproj.CoreCompileInputs.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\obj\Debug\Client_PhepTinhNhan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_PhepTinhNhan\Client_PhepTinhNhan\obj\Debug\Client_PhepTinhNhan.pdb
