@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_UDP_PhepToan", "Server_UDP_PhepToan\Server_UDP_PhepToan.csproj", "{B3BE6A01-D68C-42F7-8523-551A3BC40250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BE6A01-D68C-42F7-8523-551A3BC40250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BE6A01-D68C-42F7-8523-551A3BC40250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BE6A01-D68C-42F7-8523-551A3BC40250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BE6A01-D68C-42F7-8523-551A3BC40250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C41E8E-30E2-4AE2-AD91-75E1FA154978}
+	EndGlobalSection
+EndGlobal

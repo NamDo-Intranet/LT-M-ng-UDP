@@ -1,0 +1,8 @@
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\bin\Debug\Client_UDP_PhepToan.exe.config
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\bin\Debug\Client_UDP_PhepToan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\bin\Debug\Client_UDP_PhepToan.pdb
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\obj\Debug\Client_UDP_PhepToan.csproj.AssemblyReference.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\obj\Debug\Client_UDP_PhepToan.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\obj\Debug\Client_UDP_PhepToan.csproj.CoreCompileInputs.cache
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\obj\Debug\Client_UDP_PhepToan.exe
+C:\Users\anhxo\OneDrive\Tài liệu\LTMangC#\Client_UDP_PhepToan\Client_UDP_PhepToan\obj\Debug\Client_UDP_PhepToan.pdb
